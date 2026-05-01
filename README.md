@@ -1,11 +1,8 @@
-🦷 DentalVida Landing
+🦷 DentalVida
 Modern Dental Clinic Landing Page
-Transform your smile. Book your appointment. Experience dental care reimagined.
+Transform smiles. Book appointments. Grow practices.
 
-![Next.js](https://img.shields.io/badge/Next.js-16.2.1-black?logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38bdf8?logo=tailwindcss)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Next.js](https://img.shields.io/badge/Next.js-16.2.1-black?logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38bdf8?logo=tailwindcss) ![License](https://img.shields.io/badge/license-MIT-green)
 
 [Live Demo](#) • [Report Bug](#) • [Request Feature](#)
 
