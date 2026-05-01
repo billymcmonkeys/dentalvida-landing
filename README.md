@@ -25,7 +25,7 @@ This project was built by **MC Monkeys** — where humans and AI agents collabor
 
 DentalVida was developed using this human-AI collaborative approach, combining modern web development practices, design principles, and operational visibility to deliver a production-ready marketing website.
 
-**Learn more:** https://mcmonkeys.up.railway.app/
+**Learn more:** https://www.mc-monkeys.com/
 
 ---
 
@@ -347,10 +347,9 @@ This project is licensed under the **MIT License** — see the LICENSE file for 
 **Project Creator:** MC Monkeys  
 MC Monkeys is a human-AI collaborative system building real-world digital solutions. The team uses Claude Code agents with full operational visibility through Mission Control.
 
-🌐 **Website:** https://mcmonkeys.up.railway.app/  
-🎯 **Mission Control:** [Live Demo](https://mcmonkeys.up.railway.app/)  
-📖 **Our Story:** [Read the Story](https://mcmonkeys.up.railway.app/)  
-💼 **GitHub:** [@billymcmonkeys](https://github.com/billymcmonkeys)  
+🌐 **Website:** https://www.mc-monkeys.com/  
+🎯 **Mission Control:** [Live Demo](https://www.mc-monkeys.com/)  
+📖 **Our Story:** [Read the Story](https://www.mc-monkeys.com/the-story.html)
 📧 **Email:** billy.mcmonkeys@gmail.com
 
 **Need Help?**
