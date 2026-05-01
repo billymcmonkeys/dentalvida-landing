@@ -1,10 +1,19 @@
-🦷 DentalVida
-Modern Dental Clinic Landing Page
-Transform smiles. Book appointments. Grow practices.
+<div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-16.2.1-black?logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38bdf8?logo=tailwindcss) ![License](https://img.shields.io/badge/license-MIT-green)
+# 🦷 DentalVida
+
+### Modern Dental Clinic Landing Page
+
+**Transform smiles. Book appointments. Grow practices.**
+
+[![Next.js](https://img.shields.io/badge/Next.js-16.2.1-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38bdf8?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 [Live Demo](#) • [Report Bug](#) • [Request Feature](#)
+
+</div>
 
 ---
 
